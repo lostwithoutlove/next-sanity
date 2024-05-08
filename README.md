@@ -1,4 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Terminal Commands
+
+1. npx create-next-app@latest
+2. npm run dev
+3. npm create sanity@latest
+4. npm install sanity next-sanity 
+
 
 ## Getting Started
 
